@@ -6,6 +6,7 @@ A modified Lotka-Volterra predator-prey model investigating the impact of car co
 ## About
 
 This project was completed as part of the **Models in Conservation Biology** module during the **Winter Semester 2022-23** for my Master's degree.
+This project was developed during my first semester of the Master's program, while I was still building my skills in ecological modeling. Although the work reflects an early stage of my learning journey, it represents a valuable step in applying theoretical concepts to a real-world conservation challenge.
 
 ## Repository Contents
 
@@ -34,7 +35,7 @@ source("cheetah_code.R")
 
 ## Details
 
-For complete information about the model equations, parameters, assumptions, results, and conservation implications, please refer to the accompanying report (`Cheetah_report.pdf`).
+For complete information about the model equations, parameters, assumptions, results, and conservation implications, please refer to the accompanying report (`Cheetah_report.pdf`). 
 
 ## Author
 
